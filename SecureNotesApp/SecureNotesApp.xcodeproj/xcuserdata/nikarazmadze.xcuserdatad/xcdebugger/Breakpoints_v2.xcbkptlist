@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "81B8351A-9DA3-49D8-9AEC-F8837DFA4AF6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEEE488E-A360-4595-ABB8-17547DA4DF15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecureNotesApp/Scenes/NoteDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "saveButtonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75228882-C7D7-4E71-8912-A771E087AA25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecureNotesApp/Scenes/NoteListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "noteEdited(header:body:atIndex:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75228882-C7D7-4E71-8912-A771E087AA25 - 98eeb298d8b82d68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecureNotesApp.NoteListViewController.noteEdited(header: Swift.String, body: Swift.String, atIndex: Swift.Int) -&gt; ()"
+                  moduleName = "SecureNotesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikarazmadze/Desktop/assigments/Assigment16/SecureNotesApp/SecureNotesApp/Scenes/NoteListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "531">
+               </Location>
+               <Location
+                  uuid = "75228882-C7D7-4E71-8912-A771E087AA25 - 98eeb298d8b82d68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecureNotesApp.NoteListViewController.noteEdited(header: Swift.String, body: Swift.String, atIndex: Swift.Int) -&gt; ()"
+                  moduleName = "SecureNotesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikarazmadze/Desktop/assigments/Assigment16/SecureNotesApp/SecureNotesApp/Scenes/NoteListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "477">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1043E171-FBA5-4F5E-A61B-5761F93973D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecureNotesApp/Scenes/NoteListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "plusButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1043E171-FBA5-4F5E-A61B-5761F93973D5 - 261b8117643c6a60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecureNotesApp.NoteListViewController.plusButtonTapped() -&gt; ()"
+                  moduleName = "SecureNotesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikarazmadze/Desktop/assigments/Assigment16/SecureNotesApp/SecureNotesApp/Scenes/NoteListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "1043E171-FBA5-4F5E-A61B-5761F93973D5 - 261b8117643c6a60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecureNotesApp.NoteListViewController.plusButtonTapped() -&gt; ()"
+                  moduleName = "SecureNotesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikarazmadze/Desktop/assigments/Assigment16/SecureNotesApp/SecureNotesApp/Scenes/NoteListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "1043E171-FBA5-4F5E-A61B-5761F93973D5 - 261b8117643c6b81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecureNotesApp.NoteListViewController.plusButtonTapped() -&gt; ()"
+                  moduleName = "SecureNotesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikarazmadze/Desktop/assigments/Assigment16/SecureNotesApp/SecureNotesApp/Scenes/NoteListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
